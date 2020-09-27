@@ -7,7 +7,7 @@ ppkg install python
 pkg install git
 git clone https://github.com/aungnyeinchan351/Zip_hack.git
 cd Zip_hack
-./install.py
+python3 install.py
 ```
 
 ## To install on linux, type the following commands
@@ -18,7 +18,7 @@ sudo apt install git
 sudo apt install python3-pip
 git clone https://github.com/aungnyeinchan351/Zip_hack.git
 cd Zip_hack
-./install.py
+python3 install.py
 ```
 
 ## Usage
