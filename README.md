@@ -9,3 +9,14 @@ git clone
 cd Zip_hack
 ./install.py
 ```
+
+## To install on linux, type the following commands
+```
+sudo apt update && upgrade
+sudo apt install python
+sudo apt install git
+sudo apt install python3-pip
+git clone https://github.com/aungnyeinchan351/Zip_hack.git
+cd Zip_hack
+./install.py
+```
